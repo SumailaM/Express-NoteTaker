@@ -3,7 +3,7 @@ let noteTitle;
 let noteText;
 let saveNoteBtn;
 let newNoteBtn;
-let noteList;
+let noteList; 
 
 if (window.location.pathname === '/notes') {
   noteForm = document.querySelector('.note-form');
