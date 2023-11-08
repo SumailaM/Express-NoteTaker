@@ -32,3 +32,6 @@ The Note Taker application offers the following functionality:
 - **Viewing Existing Notes:** You can click on an existing note in the list in the left-hand column to view its details, which will appear in the right-hand column. A "New Note" button appears in the navigation at the top of the page.
 
 - **Creating New Notes:** To create a new note, you can click on the "New Note" button in the navigation at the top of the page. This will present you with empty fields to enter a new note title and the note's text in the right-hand column, and the button disappears.
+
+
+-Code Assiastance From - https://www.geeksforgeeks.org/how-to-build-note-taking-application-using-node-js/ -- Used to understand amd implement code
